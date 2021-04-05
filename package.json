@@ -2,6 +2,7 @@
   "name": "heroes-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://eliseodm.github.io/HeroApp",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
@@ -39,6 +40,7 @@
   },
   "devDependencies": {
     "@wojtekmaj/enzyme-adapter-react-17": "^0.4.1",
-    "enzyme-to-json": "^3.6.1"
+    "enzyme-to-json": "^3.6.1",
+    "gh-pages": "^3.1.0"
   }
 }
