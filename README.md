@@ -1,8 +1,8 @@
 # HeroApp
 
-Done with react, to exemplify the use of hooks, ReactRouter, useContext.
+React Router, Context and Auth implementation on a learning app about superHeroes dbs. Bonus, unit testing. whith Jest, Enzyme.
 
-Link: https://eliseodm.github.io/HeroApp/
+ (https://eliseodm.github.io/HeroApp/)
 
 
 # Getting Started with Create React App
